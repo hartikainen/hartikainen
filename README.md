@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 Here's a summary of what I've been doing in the past:
-- PhD student
 - Research Intern at [Google Brain Robotics](https://research.google/teams/robotics/).
 - Research Scientist intern at [DeepMind](https://www.deepmind.com/) robotics.
 - Research Staff at [Robotics and AI Lab](https://rail.eecs.berkeley.edu/) at University of California, Berkeley.
