@@ -1,10 +1,14 @@
 ### Hi there 👋
 
+I am the Founding Engineer and Head of Software at [Eka Robotics](https://ekarobotics.com/).
+
 Here's a summary of what I've been doing in the past:
+- PhD at University of Oxford.
 - Research Intern at [Google Brain Robotics](https://research.google/teams/robotics/).
 - Research Scientist intern at [DeepMind](https://www.deepmind.com/) robotics.
 - Research Staff at [Robotics and AI Lab](https://rail.eecs.berkeley.edu/) at University of California, Berkeley.
-- Software Engineer at [Statwing](https://www.statwing.com/) and [Qualtrics](https://www.qualtrics.com/).
+- Software Engineer at [Statwing](https://www.ycombinator.com/companies/statwing/) and [Qualtrics](https://www.qualtrics.com/).
+
 
 <!--
 **hartikainen/hartikainen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
